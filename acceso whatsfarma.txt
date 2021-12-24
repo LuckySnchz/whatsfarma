@@ -1,0 +1,10 @@
+ACCESO A C-PANEL:
+
+url: http://whatsfarma.com.ar/cpanel
+usuario: whatsfar
+contraseña: su(58N4ny2VP[E
+
+FILEZILLA:
+FTP Hostname Temporal / IP: 209.133.204.26
+Usuario FTP: whatsfar
+Contraseña: su(58N4ny2VP[E
